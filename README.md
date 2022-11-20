@@ -1,5 +1,14 @@
 # Welcome to my Healthcare Drug Persistence ML Project!
 
+## Team Member Details
+
+Group Name: Team Pedram
+Name: Pedram Doroudchi
+Email: pdoroudchi@gmail.com
+Country: USA
+College: University of California, San Diego
+Specialization: Data Science
+
 ## Problem Statement
 
 Drug persistency may be defined as the extent to which a patient acts in accordance with the prescribed interval and dose of a dosing regimen. One of the challenges for all pharmaceutical companies is to understand the persistency of a drug as per the physician's prescription. To solve this problem, ABC Pharma Company would like us to automate this process of identification. With an objective to gather insights on the factors that are impacting the persistency, we will build a classification for the given dataset which contains patient demographics, provider attributes, clinical factors, and disease/treatment factors as well as the target variable indicating whether the patient was persistent or not in their medication usage.
