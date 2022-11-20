@@ -3,10 +3,15 @@
 ## Team Member Details
 
 Group Name: Team Pedram
+
 Name: Pedram Doroudchi
+
 Email: pdoroudchi@gmail.com
+
 Country: USA
+
 College: University of California, San Diego
+
 Specialization: Data Science
 
 ## Problem Statement
