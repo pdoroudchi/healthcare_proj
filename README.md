@@ -20,7 +20,7 @@ Drug persistency may be defined as the extent to which a patient acts in accorda
 
 ## Business Understanding
 
-There are many current medical research papers highlighting the importance of medication adherence in the healthcare industry [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8124987/) [[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6103301/) [[3]](https://www.nature.com/articles/s41579-019-0196-3). These papers often cite the role of persistence as a key indicator in medication adherence-related quality and performance. Thus it is essential to accurately classify patients who are less likely to adhere to their prescription in order to better tailor their quality of care. As a result, we may improve medication persistence, health outcomes and healthcare efficiency worldwide.
+There are many current medical research papers highlighting the importance of medication adherence in the healthcare industry [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8124987/) [[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6103301/) [[3]](https://www.nature.com/articles/s41579-019-0196-3). These papers often cite the role of persistence as a key indicator in medication adherence-related quality and performance. Thus, it is essential to accurately classify patients who are less likely to adhere to their prescription in order to better tailor their quality of care. As a result, we may improve medication persistence, health outcomes and healthcare efficiency worldwide.
 
 ## Project Life Cycle
 
